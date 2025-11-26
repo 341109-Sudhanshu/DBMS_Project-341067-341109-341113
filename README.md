@@ -29,3 +29,9 @@ The database is structured into four logical modules:
 ### 4. Billing & Reporting
 - **Test_Report:** Links Patients, Doctors, and Tests (M:N Relationship).
 - **Patient_Bill:** Consolidated financial record.
+
+## Group Members (of Section B, PGDM-34)
+* 341067 - Arjun M Nair
+* 341109 - Sudhanshu Singh
+* 341113 - Utkarsh Maheshwari
+
