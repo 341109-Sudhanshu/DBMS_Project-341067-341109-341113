@@ -1,5 +1,5 @@
 # DBMS-Project-341067-341109-341113)
-DBMS Project as part of Term - 2 for ETB Subject
+DBMS Project as part of Term - 2 for ETB Subject under guidance of Prof. Ashok Harnal of FORE School of Management, New Delhi
 
 # City Care Hospital Management System (DBMS)
 
