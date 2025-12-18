@@ -1,13 +1,15 @@
-# DBMS-Project-341067-341109-341113 (FORE School of Management)
+# City Care Hospital Management System (DBMS)
+
+A comprehensive Relational Database Management System (RDBMS) designed to simulate the core operations of a general hospital. This project handles patient registration, doctor appointments, inpatient admissions, pharmacy inventory, lab reporting, and automated billing.
+
+## DBMS-Project-341067-341109-341113 (FORE School of Management)
 DBMS Project as part of Term - 2 for ETB Subject under guidance of Prof. Ashok Harnal of FORE School of Management, New Delhi
 
 ## Group Members
 1. Sudhanshu Singh (341109)
 2. Arjun M Nair (341067)
 3. Utkarsh Maheshwari (341113)
-# City Care Hospital Management System (DBMS)
 
-A comprehensive Relational Database Management System (RDBMS) designed to simulate the core operations of a general hospital. This project handles patient registration, doctor appointments, inpatient admissions, pharmacy inventory, lab reporting, and automated billing.
 
 ## Project Overview
 This project demonstrates the practical application of DBMS concepts. It models a real-world scenario where patients interact with doctors, labs, etc.
